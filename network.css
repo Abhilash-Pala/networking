@@ -1,0 +1,193 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+* {
+        margin:0;
+        font-family: "Dancing Script", cursive;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+      
+}
+.btns1{
+    margin-left:4%;
+    font-size:40px;
+}
+.btns1{
+    background-color: #079aa4;
+    color:white;
+    border:none;
+    box-shadow:2px 3px 4px #f80616;
+    border-radius:25px;
+}
+
+.navbar {
+    background-color: #04f9b0;
+}
+.nav-link {
+    color: white;
+    font-size: 30px;
+}
+.fa-solid {
+    color: blue;
+}
+
+.fa-regular {
+    color: blue;
+}
+.btns{
+    
+    
+    
+    
+    margin-left:20%;
+    /* padding:-5px 100px; */
+    font-size:30px;
+    
+    
+}
+.btns label{
+    border-radius: 2px 2px 2px solid red;
+}
+.head{
+    font-size: 100px;
+    color:red;
+    margin-top: 3%;
+    text-shadow:2px 3px 4px grey;
+}
+.btns:hover{
+    background-color: #0af90a;
+    color:white;
+    border:none;
+    box-shadow:2px 3px 4px #f80616;
+    border-radius:25px;
+
+}
+.bgimg1{
+    background-image:url("https://images.pexels.com/photos/6325002/pexels-photo-6325002.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    width:100vw;
+    height:130vh;
+    margin-top:2%;
+    background-size: cover;
+    
+}
+
+.icons{
+    font-size:40px;
+    margin:2%;
+    
+}
+.icons.fa-brand{
+    margin-left:4%;
+    padding-left:5%;
+
+}
+.fa-instagram{
+    color:brown;
+    margin-left:-3%;
+
+}
+.fa-youtube{
+    color:red;
+
+}
+.fa-theater{
+    color:blue;
+}
+.fa-whatsapp{
+    color:green;
+}
+
+.cbutton{
+    font-size:20px;
+    margin-left:35%;
+    color:aqua;
+    width:30%;
+    border:none;
+    border-radius:3px 3px 3px solid red;
+    }
+.cbutton:hover{
+    background-color: #f34f08;
+    color:blue;
+    border-radius:4px 4px 2px  solid #74f609;
+    border:#5b0cf9;
+}
+.formy1 label{
+    font-size:25px;
+    font-weight:bold;
+    color:rgb(111, 7, 238);
+    margin-bottom: 2%;
+}
+.formy1 input[type="text"]{
+    border:none;
+    box-shadow:2px 3px 4px blue;
+    border-radius:25px;
+    padding:0.8%;
+    width:90%;
+    margin-bottom: 4%;
+}
+.formy1 textarea{
+    width:90%;
+    border:none;
+    box-shadow: 2px 3px 4px #5b0cf9;
+    border-radius:25px;
+}
+.formy1{
+    width:100%;
+}
+.formy1{
+    display: flex;
+    flex-direction: column;
+    background-color: #04eafa;
+}
+.contact{
+    background-color: #a2f8a2;
+    width:90vw;
+    border-radius:25px;
+    
+}
+.contact label{
+    font-size:25px;
+    font-weight:bold;
+    color:rgb(111, 7, 238);
+    margin-bottom: 2%;
+    border-radius:25px;
+}
+.bgcontact{
+    width:90vw;
+    height:100vh;
+}
+.one1{
+     background-color: #0aecfc;
+}
+.icons4 .fa-brands {
+    /* border:10px solid white; */
+    font-size: 30px;
+    margin-left: 6%;
+}
+.icons4 .fa-solid {
+    
+    font-size: 30px;
+    margin-left: 6%;
+}
+.pay label{
+    border-radius: 2px 2px 2px solid red;
+}
+.mb-3 .form-label{
+    border-radius: 2px 2px 2px solid red;
+}
+.form-control{
+    border-radius: 2px 2px 2px solid red;
+}
+.pay input[type="text"]{
+    border:none;
+    box-shadow:2px 3px 4px #f80616;
+    border-radius:25px;
+    padding:0.8%;
+    width:90%;
+    margin-bottom: 4%;
+}
+.two{
+    font-style: italic;
+
+}.three{
+    margin-left:40%;
+}
